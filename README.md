@@ -2,7 +2,7 @@
 
 ## Setting Up the Bot for Local Use
 
-First, create a discord application! If you already have, feel free to skip this bit!
+First, create a discord application! If you already have, feel free to skip this bit! Keep in mind that the role permissions are set to a specific discord server, so you might need to change that!
 
 ## Creating a Discord Application
 
@@ -25,11 +25,11 @@ Hit that lovely Add Bot button, again in Blurple. This will prompt you about the
 ## Getting and using your Token
 
 You will see Click to Reveal Token in your Bot Information Section, your Token is sensitive information and should NEVER be shared. If your token does get into somebody's hands who shouldn't have it click the Regenerate button, this will invalidate all prior tokens.
-Press the copy button to copy your token, then enter the Bot.py file and scroll to the bottom, there you will see the word TOKEN, simply replace it with the token you have just copied!
+Press the copy button to copy your token, then enter the Bot.py file and scroll to the bottom, there you will see the word TOKEN, simply replace it with the token you have just copied! 
 
 ## Setting Up the Bot for Hosting with Heroku
 
-Assuming that you already have a **Heroku Account** and the **Heroku CLI** installed, here are the commands you will have to do to start hosting it with Heroku! I am too lazy to write them out, so please navigate to this [tutorial](https://techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/)
+Assuming that you already have a **Heroku Account** and the **Heroku CLI** installed, here are the commands you will have to do to start hosting it with Heroku! I am too lazy to write them out, so please navigate to this [tutorial](https://techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/).
 
 ## Still Need Help?
 
