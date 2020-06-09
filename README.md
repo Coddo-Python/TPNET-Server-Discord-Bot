@@ -6,7 +6,7 @@ First, create a discord application! If you already have, feel free to skip this
 
 ## Creating a Discord Application
 
-Step 1: Navigate to [Discord Developer Website](https://discord.com/developers/applications) Visit the Discord applications page. This is where all Discord bots and OAuth applications are are born.
+Step 1: Navigate to the [Discord Developer Website](https://discord.com/developers/applications). This is where all Discord bots and OAuth applications are are born.
 
 Step 2: Create your first Application Click Create an Application Enter your Application's name under Name The description, and app icon can be ignored for now and edited later.
 
